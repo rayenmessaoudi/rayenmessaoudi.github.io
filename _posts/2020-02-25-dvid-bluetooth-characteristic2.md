@@ -95,6 +95,5 @@ root@psycor:~# avrdude -c usbasp -p m328p -U flash:w:characteristics2.ino.arduin
 ![](/images/dvid-characteristics2/3.png)
 
 ## Sources
-
 [https://www.evilsocket.net/2017/09/23/This-is-not-a-post-about-BLE-introducing-BLEAH/](https://www.evilsocket.net/2017/09/23/This-is-not-a-post-about-BLE-introducing-BLEAH/)
 [https://blog.attify.com/the-practical-guide-to-hacking-bluetooth-low-energy/](https://blog.attify.com/the-practical-guide-to-hacking-bluetooth-low-energy/)
