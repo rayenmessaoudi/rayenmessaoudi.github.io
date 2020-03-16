@@ -25,6 +25,7 @@ HALL OF FAME (NON-EXHAUSTIVE LIST)
 - [Microsoft](https://portal.msrc.microsoft.com/en-us/security-guidance/researcher-acknowledgments-online-services) 2019
 - [Adobe](https://helpx.adobe.com/security/acknowledgements.html) 2019
 - [Paloalto](https://www.paloaltonetworks.com/security-researcher-acknowledgement)
+- [SAP](https://wiki.scn.sap.com/wiki/display/PSR/Acknowledgments+to+Security+Researchers) March 2020
 - [Bosch](https://psirt.bosch.com/hall-of-fame/websites-hall-of-fame.html) 2019
 - [PHILIPS](https://www.philips.com/a-w/security/coordinated-vulnerability-disclosure/hall-of-honors.html)
 
