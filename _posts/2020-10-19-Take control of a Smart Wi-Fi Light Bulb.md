@@ -231,5 +231,4 @@ except socket.error:
 ```
 ## Sources
 [https://www.troopers.de/downloads/troopers17/TR17_fgont_-iot_tp_link_hacking.pdf](https://www.troopers.de/downloads/troopers17/TR17_fgont_-iot_tp_link_hacking.pdf)
-[https://flows.nodered.org/flow/759cbd792adcde06fd2a68f9c3331e13](https://flows.nodered.org/flow/759cbd792adcde06fd2a68f9c3331e13
-)
+[https://www.briandorey.com/post/tp-link-lb130-smart-wi-fi-led-bulb-python-control](https://www.briandorey.com/post/tp-link-lb130-smart-wi-fi-led-bulb-python-control)
