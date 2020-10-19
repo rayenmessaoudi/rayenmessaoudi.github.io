@@ -13,7 +13,7 @@ TP-Link Smart Plug Protocol is a protocol employed by TP-Link used by the most o
 - Device configuration 
 - Polling and/or modifying device state
 
-## Example of devices used this protocol:
+## Example of devices used this protocol
 
 ![](/images/smart_bulb/devices.png)
 
@@ -24,12 +24,14 @@ TP-Link Smart Plug Protocol is a protocol employed by TP-Link used by the most o
 
 - KL110: TP-Link Kasa Smart Wi-Fi Light Bulb
 
-## Example of commands to control the smart bulb:
+## Example of commands
+Below is an example of commands to control the smart bulb.
+
 **Gets the system information for the light bulb.**
 
 Command:
 
-### `{"system":{"get_sysinfo":{}}}`
+`{"system":{"get_sysinfo":{}}}`
 
 Returns:
 
@@ -108,7 +110,7 @@ Returns:
 
 Command:
 
-### `{"smartlife.iot.smartbulb.lightingservice":{"transition_light_state":{"on_off":1,"transition_period":0}}}`
+`{"smartlife.iot.smartbulb.lightingservice":{"transition_light_state":{"on_off":1,"transition_period":0}}}`
 
 Returns:
 
@@ -128,8 +130,8 @@ Returns:
 }
 ```
 
-## How The Protocol TP-Link Smart Plug Protocol works ?
-The protocol employs an algorithm to obfuscate the command, XOR each byte of the command to execute. Initial byte is XORed with special value 171.
+## How The Protocol works ?
+The protocol TP-Link Smart Plug employs an algorithm to obfuscate the command, XOR each byte of the command to execute. Initial byte is XORed with special value 171.
 ```python
 def encrypt(string):
         key = 171
