@@ -165,7 +165,7 @@ Then with a simple nmap scan using the port 9999 we can identify the bulb ip add
 
 ![](/images/smart_bulb/1.png)
 
-Now, we have all the information to control the smart bulb.
+Now, we have all the necessary information to control the smart bulb.
 
 
 ## DEMO
