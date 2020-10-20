@@ -172,9 +172,7 @@ Now, we have all the necessary information to control the smart bulb.
 
 ![](/images/smart_bulb/VID_20201019_210511.gif)
 
-## Video
-
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/1wWzBRAZ_SQ/0.jpg)](https://www.youtube.com/watch?v=1wWzBRAZ_SQ "take control of a smart WIFI light bulb")
+Check the video on [YouTube](https://www.youtube.com/watch?v=1wWzBRAZ_SQ)
 
 ## Source code
 ```python
