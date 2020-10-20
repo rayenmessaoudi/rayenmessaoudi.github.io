@@ -169,6 +169,7 @@ Now, we have all the necessary information to control the smart bulb.
 
 
 ## DEMO
+
 **gif**
 
 ![](/images/smart_bulb/VID_20201019_210511.gif)
