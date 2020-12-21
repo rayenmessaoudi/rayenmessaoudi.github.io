@@ -22,7 +22,7 @@ HALL OF FAME (NON-EXHAUSTIVE LIST)
 ```
 
 - [Google](https://bughunter.withgoogle.com/profile/d63fb7a7-045b-492c-bb25-e02324a8c1e4)
-- [Microsoft](https://portal.msrc.microsoft.com/en-us/security-guidance/researcher-acknowledgments-online-services) 2019
+- [Microsoft](https://msrc.microsoft.com/update-guide/en-us/acknowledgement/online) 2019/2020
 - [Adobe](https://helpx.adobe.com/security/acknowledgements.html) 2019
 - [Paloalto](https://www.paloaltonetworks.com/security-researcher-acknowledgement)
 - [SAP](https://wiki.scn.sap.com/wiki/display/PSR/Acknowledgments+to+Security+Researchers) March 2020
