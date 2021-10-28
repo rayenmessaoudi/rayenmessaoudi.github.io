@@ -20,7 +20,7 @@ WHOAMI
 ```md
 HALL OF FAME (NON-EXHAUSTIVE LIST)
 ```
-- [Tenable](https://fr.tenable.com/security/report/hall-of-fame)
+- [Tenable](https://fr.tenable.com/security/report/hall-of-fame) 2021
 - [Google](https://bughunter.withgoogle.com/profile/d63fb7a7-045b-492c-bb25-e02324a8c1e4)
 - [Microsoft](https://msrc.microsoft.com/update-guide/en-us/acknowledgement/online) 2019/2020
 - [Adobe](https://helpx.adobe.com/security/acknowledgements.html) 2019
