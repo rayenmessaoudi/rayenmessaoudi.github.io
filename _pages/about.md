@@ -36,3 +36,4 @@ ACHIEVEMENTS
 - 2nd Place, Pentest Challenge, Orange Cyberdefense, FIC FORUM 2020
 - 3rd Place, Live Bug Bounty, YesWeHack, FIC FORUM 2020
 - 2 0-day during a pentest mission
+- CVE-2022-XXXXX, TheHive, Unauthentified API endpoint leaking data ([https://www.philips.com/a-w/security/coordinated-vulnerability-disclosure/hall-of-honors.html](https://github.com/StrangeBeeCorp/Security/blob/main/Security%20advisories/SB-SEC-ADV-2022-002.md)) 2022
