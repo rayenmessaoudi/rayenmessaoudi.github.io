@@ -11,9 +11,10 @@ WHOAMI
 ```
 
 - Information security consultant
-- Pentester / Redteamer
+- SOC Analyst (Currently)
+- Ex Pentester & Redteamer
 - Occasional [CTF](https://ctftime.org/team/47798) player
-- Bug hunter
+- Occasional Bug hunter
 
 
 
