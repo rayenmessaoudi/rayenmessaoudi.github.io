@@ -10,7 +10,7 @@ My name is **Rayen MESSAOUDI** a.k.a PsycoЯ, computer science engineer and cybe
 WHOAMI
 ```
 
-- Information security consultant (Currently SOC Analyst)
+- Information security consultant (Currently SOC Lead L1)
 - Ex Pentester & Redteamer
 - Occasional [CTF](https://ctftime.org/team/47798) player
 - Occasional Bug hunter
